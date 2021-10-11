@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋
+
 🌱 I’m currently learning: Computer Science at Univserity.
+
 😄 Pronouns: He/Him
+
 📫 How to reach me: Discord / Sedaji#9978
