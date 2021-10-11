@@ -1,12 +1,10 @@
-### Hi there 👋
-
 <!--
 **sedaji/sedaji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-🌱 I’m currently learning ... at UT Dallas
+- 🌱 I’m currently learning ... at UT Dallas
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,5 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning ... at UT Dallas
-.
+### Hi there 👋
+🌱 I’m currently learning: Computer Science at Univserity.
+😄 Pronouns: He/Him
+📫 How to reach me: Discord / Sedaji#9978
