@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 😄 Pronouns: He/Him
 
-🌱 I’m currently learning: Computer Science at Univserity.
+🌱 I’m currently learning: Computer Science at University.
 
 📫 How to reach me: Discord / Sedaji#9978
 
