@@ -14,8 +14,6 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-😄 Pronouns: He/Him
-
 🌱 I’m currently learning: Computer Science at University.
 
 📫 How to reach me: Discord / Sedaji#9978
