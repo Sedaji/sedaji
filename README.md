@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ... at UT Dallas
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋
 
-🌱 I’m currently learning: Computer Science at University.
+🌱 I’m currently trying to survive.
 
 📫 How to reach me: Discord / Sedaji#9978
 
