@@ -12,12 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋
+### Ahoyu 👋🌱 
 
-🌱 I’m currently trying to survive.
+![sedaji's Stats](https://github-readme-stats.vercel.app/api?username=sedaji&theme=material-palenight&show_icons=true&hide_border=true&count_private=false)
 
-📫 How to reach me: Discord / Sedaji#9978
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sedaji&show_icons=true?count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&hide=javascript,html,typescript,css,glsl,rust,objective-c&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
